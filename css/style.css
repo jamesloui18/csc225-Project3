@@ -1,0 +1,11 @@
+* {
+    -webkit-overflow-scrolling: touch;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.hover-invert:not(.active):hover {
+    color: yellow;
+    background: rebeccapurple;
+}
